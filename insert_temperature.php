@@ -1,5 +1,5 @@
 <?php
-ini_set("display_errors", On);
+ini_set("display_errors", 1);
 error_reporting(E_ALL);
 header("Content-type:text/html;charset=UTF-8");
 include('common_db/sql_queries.php');
