@@ -4,9 +4,9 @@ class sqlQueries
 {
   /* MySQL接続情報 */
   /*練習/本番の切り替えが無いのでここに定義*/
-  public static $url = "localhost";
-  public static $user = "user";
-  public static $pass = "XRz91TMy";
+  public static $url = "****";
+  public static $user = "****";
+  public static $pass = "****";
   public static $db = "room_temp";
   public static $tableName = "trn_temperature";
 
